@@ -2,7 +2,7 @@
 
 LAB - Class 02
 Project: Basic Express Server
-Author: Steve Gant (collab with Marco Villafana and Brenda Chow)
+Author: Steve Gant (collab with Marco Villafana and Brenda Jow)
 Problem Domain
 From a business requirements standpoint, we will be building a basic Express server using best practices, including server modularization, use of middleware, and tests.
 
