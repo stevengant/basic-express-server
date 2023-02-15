@@ -35,6 +35,5 @@ describe('API Server', () => {
 
     expect(response.body.person).toEqual(mockRequest.body.person);
   });
-  
 
 });
