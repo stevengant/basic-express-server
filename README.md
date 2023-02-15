@@ -7,8 +7,8 @@ Problem Domain
 From a business requirements standpoint, we will be building a basic Express server using best practices, including server modularization, use of middleware, and tests.
 
 Links and Resources
-![GitHub Actions ci/cd]()
-![back-end server url]()
+![GitHub PR](https://github.com/stevengant/basic-express-server/pull/1)
+![back-end server url](https://stevegant-basic-express-server.onrender.com)
 
 Setup
 .env requirements (where applicable)
